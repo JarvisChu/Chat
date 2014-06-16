@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chat", "Chat\Chat.vcxproj", "{F0E7C4A9-1DA2-4DB2-8883-5967330EAAD8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatSrv", "ChatSrv\ChatSrv.vcxproj", "{2E36BB6B-AE01-4EBA-B635-024230B94CE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SrvSimulator", "SrvSimulator\SrvSimulator.vcxproj", "{E1CD78C8-86DA-409B-A9ED-E1C58A01C977}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClientSimulator", "ClientSimulator\ClientSimulator.vcxproj", "{5F769E75-0EC9-4D9A-BA06-730E1AE5F7D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0E7C4A9-1DA2-4DB2-8883-5967330EAAD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0E7C4A9-1DA2-4DB2-8883-5967330EAAD8}.Debug|Win32.Build.0 = Debug|Win32
+		{F0E7C4A9-1DA2-4DB2-8883-5967330EAAD8}.Release|Win32.ActiveCfg = Release|Win32
+		{F0E7C4A9-1DA2-4DB2-8883-5967330EAAD8}.Release|Win32.Build.0 = Release|Win32
+		{2E36BB6B-AE01-4EBA-B635-024230B94CE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E36BB6B-AE01-4EBA-B635-024230B94CE2}.Debug|Win32.Build.0 = Debug|Win32
+		{2E36BB6B-AE01-4EBA-B635-024230B94CE2}.Release|Win32.ActiveCfg = Release|Win32
+		{2E36BB6B-AE01-4EBA-B635-024230B94CE2}.Release|Win32.Build.0 = Release|Win32
+		{E1CD78C8-86DA-409B-A9ED-E1C58A01C977}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1CD78C8-86DA-409B-A9ED-E1C58A01C977}.Debug|Win32.Build.0 = Debug|Win32
+		{E1CD78C8-86DA-409B-A9ED-E1C58A01C977}.Release|Win32.ActiveCfg = Release|Win32
+		{E1CD78C8-86DA-409B-A9ED-E1C58A01C977}.Release|Win32.Build.0 = Release|Win32
+		{5F769E75-0EC9-4D9A-BA06-730E1AE5F7D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5F769E75-0EC9-4D9A-BA06-730E1AE5F7D5}.Debug|Win32.Build.0 = Debug|Win32
+		{5F769E75-0EC9-4D9A-BA06-730E1AE5F7D5}.Release|Win32.ActiveCfg = Release|Win32
+		{5F769E75-0EC9-4D9A-BA06-730E1AE5F7D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
